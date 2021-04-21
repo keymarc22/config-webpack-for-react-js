@@ -1,1 +1,3 @@
-# curso-webpack-react
+# Configuration webpack for react-js
+
+Deploying
